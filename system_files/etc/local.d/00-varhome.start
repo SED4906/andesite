@@ -1,3 +1,0 @@
-#!/bin/ash
-mount --bind /var/home /home
-mount --bind /var/roothome /root

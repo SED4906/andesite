@@ -1,6 +1,5 @@
 FROM scratch as ctx
 COPY build_files /
-COPY system_files /system_files
 
 FROM ghcr.io/sed4906/alpine-bootc:edge
 
