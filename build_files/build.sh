@@ -17,3 +17,6 @@ rc-update add elogind
 rc-update add polkit
 rc-update add lightdm
 rc-update add dbus
+rc-update add local sysinit
+rc-update add hostname
+rc-update add networking
